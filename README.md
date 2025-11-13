@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 About
+## 🚀 プロフィール
 
 - 🌱 現在学習中: [HTML/CSS、Javascript、Ruby、Godot]
   
