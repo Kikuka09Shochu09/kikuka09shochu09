@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 📝 TIL に気になった用語やメソッドを追加していきます！
   **一部記事の内容にするかもしれません**
 
+- 🎮 趣味:筋トレ、ゲーム、3Dモデリング(まだ始めたばかりですが😅)
+
 - 🔗 Xアカウント:https://x.com/kikukatubuyaku
