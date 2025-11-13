@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - 🎮 趣味:筋トレ、ゲーム、3Dモデリング(まだ始めたばかりですが😅)
 
-- 🔗 Xアカウント:https://x.com/kikukatubuyaku
+
