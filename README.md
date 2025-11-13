@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About
+
+- 🌱 現在学習中: [HTML/CSS、Javascript、Ruby、Godot]
+  
+- 👨‍💻 直近の目標: [Webアプリやゲームなど自由自在に作れるようになる！]
+  
+- 📝 TIL に気になった用語やメソッドを追加していきます！
+  **一部記事の内容にするかもしれません**
+
+- 🔗 Xアカウント:https://x.com/kikukatubuyaku
